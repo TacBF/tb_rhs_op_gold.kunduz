@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Rasman_Province">
+
+	<Key ID="STR_TB_missionTitle_TB_Rasman_Province">
+		<Original>Rasman_Province</Original>
+		<English>Rasman_Province</English>
+		<German>Rasman_Province</German>
+		<Italian>Rasman_Province</Italian>
+		<Spanish>Rasman_Province</Spanish>
+		<French>Rasman_Province</French>
+		<Czech>Rasman_Province</Czech>
+		<Russian>Rasman_Province</Russian>
+		<Polish>Rasman_Province</Polish>
+		<Hungarian>Rasman_Province</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Rasman_Province">
+		<Original>TacBF S&D[L-100]: Rasman_Province</Original>
+		<English>TacBF S&D[L-100]: Rasman_Province</English>
+		<German>TacBF S&D[L-100]: Rasman_Province</German>
+		<Italian>TacBF S&D[L-100]: Rasman_Province</Italian>
+		<Spanish>TacBF S&D[L-100]: Rasman_Province</Spanish>
+		<French>TacBF S&D[L-100]: Rasman_Province</French>
+		<Czech>TacBF S&D[L-100]: Rasman_Province</Czech>
+		<Russian>TacBF S&D[L-100]: Rasman_Province</Russian>
+		<Polish>TacBF S&D[L-100]: Rasman_Province</Polish>
+		<Hungarian>TacBF S&D[L-100]: Rasman_Province</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
